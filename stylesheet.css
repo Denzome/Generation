@@ -1,0 +1,38 @@
+.leftside, .rightside{
+    height: 100%;
+    width: 100%;
+}
+
+.leftside{
+    background:lightblue;
+}
+.rightside{
+    background-color: lightslategray;
+    text-align: center;
+}
+
+.btn{
+  background-color: rgb(70, 63, 144);
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  display: inline;
+}
+.form{
+    margin: 5%;
+}
+.justify{
+    height: 50%;
+    width: 100%;
+    border: 5px solid green ;
+    
+}
+.centered{
+    text-align: center;
+}
+
+.page{
+    background-color:blanchedalmond;
+}
